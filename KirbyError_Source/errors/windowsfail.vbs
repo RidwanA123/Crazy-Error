@@ -1,0 +1,1 @@
+box = MsgBox("Windows has encountered a serious error, the Windows Directory will now be deleted",16,"Windows")

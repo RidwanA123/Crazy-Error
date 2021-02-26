@@ -1,0 +1,18 @@
+WScript.Sleep 179
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\missingdll.vbs""")
+WScript.Sleep 210
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\password.vbs""")
+WScript.Sleep 94
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\windowsfail.vbs""")
+WScript.Sleep 171
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\generic.vbs""")
+WScript.Sleep 180
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\procedureentry.vbs""")
+WScript.Sleep 183
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\exclam.vbs""")
+WScript.Sleep 90
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\password.vbs""")
+WScript.Sleep 90
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\missingdll.vbs""")
+WScript.Sleep 86
+CreateObject("WScript.Shell").Run("""" & WshShell.CurrentDirectory & "\errors\fail.vbs""")
