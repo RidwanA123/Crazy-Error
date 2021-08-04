@@ -7,3 +7,6 @@ Since it was fake I just gave it a try to make it for real. (WARNING, WILL CAUSE
 Run FreeVBucks!.bat to start!
 <br>
 If you don't want BSOD go into one of the folders and run main.vbs.
+
+ANOTHER WARNING: SEIZURE WARNING FROM ONE OF THE PAYLOADS!
+
